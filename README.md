@@ -22,7 +22,7 @@ Olá! Eu sou o Enzo Alves
   <a href = "mailto:contatoenzoalvessantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-alves-dos-santos-souza-439337235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake 
+  ![Snake animation](https://github.com/vlade908/vlade908/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 </div>
