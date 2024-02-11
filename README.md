@@ -17,15 +17,15 @@
  ### Main skills:
 
 
-![Static Badge](https://img.shields.io/badge/C99-00599C?style=flat&logo=C&logoColor=white)
-<!-- ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) -->
+![Static Badge](https://img.shields.io/badge/C99-00599C?style=for-the-badge&logo=C&logoColor=white)
+<!-- ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) -->
 <!-- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;-->
 <!-- ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
 
 ### Studying in this moment:
-![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C%23-00599C?style=flat&logo=C%23&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=C%23&logoColor=white)
 
 <!-- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; -->
 <!-- ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
