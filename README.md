@@ -14,6 +14,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlade908&layout=compact&hide_border=true&title_color=00FA9A&text_color=00FA9A&bg_color=0d1117" />
 </div>
 
+<!-- ------------------------------------------------TECNOLOGIAS DOMINADAS------------------------------------------------------->
+
  ### Main skills:
 
 
@@ -23,7 +25,12 @@
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;-->
 <!-- ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
 
+<!-- ---------------------------------------------------------------------------------------------------------------------------->
+
+<!-- ------------------------------------------------TECNOLOGIAS ESTUDANDO------------------------------------------------------->
+
 ### Studying in this moment:
+
 ![Static Badge](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![Static Badge](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=C%23&labelColor=0D1117)&nbsp;
 
@@ -33,7 +40,7 @@
 <!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; -->
 
 
-<!-- VISITOR COUNT -->
+<!--------------------------------------------------------VISITOR COUNT--------------------------------------------------------->
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
