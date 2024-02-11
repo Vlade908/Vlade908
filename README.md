@@ -1,28 +1,23 @@
-Olá! Eu sou o Enzo Alves
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header"/>
 
-- 🔭 Não estou trabalhando por enquanto
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
-- 😄 Pronouns: ele/dele
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Enzo+Alves;I'm+21+years+old;I'm+from+Brazil;I'm+pursuing+a+degree+in+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/Vlade908">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vlade908&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlade908&layout=compact&langs_count=7&theme=vue-dark"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vlade908&bg_color=22272e&color=188f00&line=29b602&point=bbff00&area=true&hide_border=true&area_color=3ead21)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vlade908&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=00FA9A&text_color=c9d1d9&bg_color=22272E" alt="Enzo Alves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlade908&layout=compact&hide_border=true&title_color=00FA9A&text_color=00FA9A&bg_color=22272E" />
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-##
 
-<div>  
-  <a href = "mailto:contatoenzoalvessantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/enzo-alves-dos-santos-souza-439337235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/vlade908/vlade908/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
